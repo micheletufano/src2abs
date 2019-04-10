@@ -99,8 +99,8 @@ Arguments:
 ## Credits
 `src2abs` was built by [Michele Tufano](http://www.cs.wm.edu/~mtufano/) and [Cody Watson](http://www.cs.wm.edu/~cawatson/) and used and adapted in the context of the following research projects. If you are using `src2abs` for research purposes, please cite:
 
-[1] On Learning Meaningful Code Changes via Neural Machine Translation
-[2] An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation
+- [1] On Learning Meaningful Code Changes via Neural Machine Translation
+- [2] An Empirical Study on Learning Bug-Fixing Patches in the Wild via Neural Machine Translation
 
 ## Bibliography
 ### [1] On Learning Meaningful Code Changes via Neural Machine Translation
